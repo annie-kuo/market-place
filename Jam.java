@@ -1,5 +1,3 @@
-package assignment1;
-
 public class Jam extends MarketProduct{
     // fields
     private int numJars;
