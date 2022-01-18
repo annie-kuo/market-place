@@ -1,5 +1,3 @@
-package assignment1;
-
 public class Basket {
     // fields
     private MarketProduct[] products;
