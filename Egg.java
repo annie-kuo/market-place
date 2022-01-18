@@ -1,5 +1,3 @@
-package assignment1;
-
 public class Egg extends MarketProduct {
     // fields
     private int numOfEggs;
