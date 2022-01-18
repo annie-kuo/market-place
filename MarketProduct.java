@@ -1,5 +1,3 @@
-package assignment1;
-
 public abstract class MarketProduct {
     // field
     private String name;
