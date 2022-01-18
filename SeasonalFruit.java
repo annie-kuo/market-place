@@ -1,5 +1,3 @@
-package assignment1;
-
 public class SeasonalFruit extends Fruit{
     // constructor
     public SeasonalFruit(String name, double weight, int pricePerKg) {
