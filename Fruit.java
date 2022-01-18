@@ -1,5 +1,3 @@
-package assignment1;
-
 public class Fruit extends MarketProduct{
     // fields
     private double weight;
